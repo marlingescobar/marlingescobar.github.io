@@ -214,26 +214,32 @@ function initHeaderScroll() {
 // Skill bar animations
 function animateSkillBars() {
   const skillBars = document.querySelectorAll('.skill-progress');
-  
+
+  // Store original widths and set to 0
+  skillBars.forEach(bar => {
+    const originalWidth = bar.getAttribute('style')?.match(/width:\s*(\d+%)/)?.[1] || bar.style.width;
+    bar.dataset.targetWidth = originalWidth;
+    bar.style.width = '0%';
+    bar.style.transition = 'width 1.2s ease-out';
+  });
+
   const animateBars = () => {
     skillBars.forEach(bar => {
       const rect = bar.getBoundingClientRect();
-      const isVisible = rect.top < window.innerHeight && rect.bottom > 0;
-      
-      if (isVisible && !bar.style.animation) {
-        const width = bar.style.width;
-        bar.style.width = '0%';
+      const isVisible = rect.top < window.innerHeight - 50 && rect.bottom > 0;
+
+      if (isVisible && !bar.dataset.animated) {
+        bar.dataset.animated = 'true';
         setTimeout(() => {
-          bar.style.width = width;
-          bar.style.animation = 'fadeInUp 1s ease forwards';
-        }, 200);
+          bar.style.width = bar.dataset.targetWidth;
+        }, 100);
       }
     });
   };
-  
+
   // Initial check
-  animateBars();
-  
+  setTimeout(animateBars, 300);
+
   // Check on scroll
   window.addEventListener('scroll', animateBars);
 }
