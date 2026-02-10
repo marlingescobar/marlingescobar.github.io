@@ -1,0 +1,31 @@
+<!-- Header Navigation -->
+<header class="header">
+  <nav class="navbar">
+    <div class="container">
+      <div class="nav-brand">
+        <span class="logo-text">ME</span>
+        <span class="logo-subtitle">SAP FICO</span>
+      </div>
+      
+      <ul class="nav-menu">
+        {% for nav in site.navigation %}
+        <li class="nav-item">
+          <a href="{{ nav.url }}" class="nav-link">{{ nav.title }}</a>
+        </li>
+        {% endfor %}
+        <li class="nav-item">
+          <button class="language-switcher" onclick="toggleLanguage()">
+            <i class="fas fa-globe"></i>
+            <span class="lang-code">{{ page.lang | default: 'es' | upcase }}</span>
+          </button>
+        </li>
+      </ul>
+      
+      <div class="nav-toggle" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </nav>
+</header>

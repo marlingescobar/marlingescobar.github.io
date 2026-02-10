@@ -1,0 +1,298 @@
+MARLING FRINEE ESCOBAR ORTEGA 
+
+Bogotá - 110141, Colombia 
+Móvil: +57 301-7145179 
+LinkedIn: https://www.linkedin.com/in/marlingescobar051233 
+Email: marlingescobar8@gmail.com 
+
+Consultora  SAP  FICO  con sólida experiencia en liderazgo de equipos y proyectos estratégicos de SAP S/4HANA, 
+especializada  en  la  configuración,  optimización  e  integración  con  plataformas  como  Concur,  asegurando 
+eficiencia operativa y alineación con los objetivos del negocio. 
+Experta  en  gestión  de  proyectos,  análisis  financiero  y  capacitación,  logrando  mejoras  tangibles  en  procesos 
+clave.Entre  mis  principales  competencias  se  incluyen la gestión de proyectos, análisis financiero y capacitación 
+de usuarios finales, logrando mejoras tangibles en la eficiencia operativa y la optimización de procesos clave. 
+
+CALIFICACIONES Y ACTIVIDADES PROFESIONALES 
+
+•  Certificación SAP ERP V.6.5 (C_TFIN52_65) – Contabilidad Financiera con SAP ERP 6.0 EHP5, SAP Alemania. 
+•  Diplomado en Gestión de Proyectos PMI, Fundación Universitaria CAFAM, Bogotá, Colombia. 
+•  Curso de Certificación SAP S/4HANA FICO – Examen programado para el 26-09-2025, SAP Alemania. 
+
+CERTIFICACIONES 
+
+•  Certificación SAP ERP V.6.5 (C_TFIN52_65) – Contabilidad Financiera con SAP ERP 6.0 EHP5. 
+•  Certificación SAP S/4HANA FICO – Examen programado para el 26-09-2025 
+
+FORMACIÓN ACADÉMICA 
+
+•  Licenciada en Contaduría Pública, Universidad Alejandro de Humboldt, Caracas, Venezuela (2015). 
+•  Técnico en Contabilidad de Costos, Colegio Universitario de Caracas, Venezuela (2000). 
+
+IDIOMAS 
+
+•  Español: Nativo 
+• 
+
+Inglés: Nivel intermedio (B2) – Capaz de realizar reuniones técnicas y documentar en inglés. 
+
+EXPERIENCIA PROFESIONAL 
+
+Cliente  Esmax Distribución SpA - Chile – (Axity) – Proyecto Upgrade - Contrato indefinido 
+Consultora SAP FICO | Diciembre 2024 – Mayo 2025  (Remoto) 
+
+  Funciones: 
+
+●  Levantamiento de información y elaboración de especificaciones técnicas y funcionales. 
+●  Coordinación de sesiones de entendimiento con el key user para definir requisitos. 
+●  Apoyo al consultor ABAP en el desarrollo de código y especificaciones de integración. 
+●  Realización de pruebas unitarias e integrales y capacitación a usuarios clave. 
+
+Cliente Red Megacentro - Chile – (Axity) – Monitor Compras - Contrato indefinido 
+Consultora SAP FICO | Diciembre 2024 – Actual (Remoto) 
+
+●  Configuración avanzada del monitor de compras en SAP, integrando procesos contables y de compras. 
+●  Validación y reconciliación de facturas con registros contables en SAP. 
+●  Resolución de incidencias críticas y optimización de flujos de pagos en el Sistema 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cliente Sigma - México (Softtek International) - Mesa de ayuda 
+Consultora SAP FICO | abril 2024 – diciembre 2024 (Remoto) 
+
+Funciones: 
+
+•  Configuré y optimicé procesos financieros en SAP S/4HANA, mejorando la eficiencia del sistema en un 15%. 
+•  Documenté configuraciones técnicas y funcionales para facilitar la transferencia de conocimiento a los 
+
+stakeholders. 
+
+•  Coordiné la integración de SAP FICO con plataformas externas, asegurando consistencia en la información 
+
+financiera. 
+Implementé mejoras que redujeron redundancias y optimizaron la operatividad del cliente. 
+
+• 
+
+Freelance - Cliente CLARO (Perú) - Proyecto Cashflow (Contrato de Servicios Profesionales) 
+Consultora Funcional SAP FICO | enero 2024 – abril 2024 (Remoto) 
+
+Funciones: 
+
+•  Analicé y definí las necesidades de negocio y requisitos funcionales, asegurando alineación con los objetivos del 
+
+cliente. 
+
+•  Configuré y desarrollé soluciones en SAP S/4HANA, integrando con plataformas externas para optimizar la 
+
+operatividad. 
+
+•  Documenté casos de uso detallados, mejorando la comprensión y aplicación de procesos por parte de los equipos 
+
+técnicos. 
+
+•  Incrementé en un 30% la eficiencia operativa de usuarios finales mediante programas de capacitación 
+
+personalizados en módulos SAP (FICO, PP, MM). 
+
+•  Lideré la personalización e implementación de soluciones SAP financieras, optimizando procesos clave como pagos 
+
+automáticos y gestión de cuentas bancarias en colaboración con equipos de desarrollo. 
+
+Freelance – Clientes Dulmatesa y Globalvia (Madrid, España) - Mesa de ayuda 
+Consultora Funcional SAP FICO | octubre 2022 – diciembre 2023 (Remoto) 
+
+Funciones: 
+
+•  Lideré la migración de datos financieros a S/4HANA con SAP Migration Cockpit, logrando una transición precisa y 
+
+efectiva. 
+
+•  Configuré submódulos FI (AP, AR, AA, GL, TX) y realicé pruebas unitarias e integrales para garantizar la integridad 
+
+del sistema. 
+
+•  Resolví incidentes en FICO utilizando metodología Agile, mejorando procesos financieros críticos. 
+•  Documenté y desarrollé scripts de pruebas, alineando los procesos con los objetivos estratégicos del negocio. 
+
+Everis – Cliente ENEL (Bogotá, Colombia) - Contrato indefinido – Roll-out 
+Coordinadora de Proyectos SAP FICO | Nordeste (NORGAS) | marzo 2020 – septiembre 2022 
+
+Funciones: 
+
+•  Mejoré procesos de negocio en SAP S/4HANA utilizando la metodología Activate, optimizando la eficiencia operativa. 
+•  Definí y documenté procesos clave en colaboración con equipos financieros, garantizando alineación con los 
+
+requisitos del sistema. 
+
+•  Coordiné capacitaciones SAP Train the Trainer, mejorando la competencia de usuarios finales. 
+•  Gestioné proyectos bajo metodología Agile, asegurando cumplimiento de plazos y estándares de calidad. 
+• 
+
+Lideré la implementación de funcionalidades en SAP S/4HANA, optimizando módulos financieros (Contabilidad, 
+Impuestos, Activos Fijos, Cuentas por Cobrar y Pagar). 
+Implementé mejoras que eliminaron redundancias y aumentaron la eficiencia de procesos financieros. 
+
+• 
+•  Participé en auditorías financieras, asegurando cumplimiento con estándares y regulaciones. 
+
+Freelance - Intergrupo Cliente PWC (Bogotá, Colombia) - (Contrato de Servicios Profesionales) 
+Consultora SAP FI | febrero 2019 – abril 2019 (Freelance) 
+
+Funciones: 
+
+•  Brindé soporte en el módulo FI para clientes como PWC y Fundación Carulla, resolviendo problemas críticos y 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+optimizando procesos financieros. 
+
+•  Configuré y ajusté estructuras del balance general, asegurando precisión y coherencia en los estados financieros. 
+•  Gestioné claves de referencia en documentos KB y colaboré con consultores ABAP en ajustes de tablas y programas 
+
+personalizados, mejorando la funcionalidad del sistema SAP. 
+
+Freelance – ABInBev Brewery (Bogotá, Colombia) – Proyecto Legalización Viajes 
+
+Consultora SAP FICO (Freelance) Líder de Proyecto Jr., marzo 2018 - noviembre 2018. 
+
+Funciones: 
+
+●  Coordiné e interpreté las necesidades de las tareas asignadas, transformándolas en soluciones 
+
+personalizadas para el cliente en el ámbito de SAP FI, incluyendo la gestión de cambio y pruebas 
+de regresión. 
+
+●  Ejecuté actividades clave para la gestión del cambio, asegurando la alineación con los objetivos del 
+
+proyecto y la satisfacción del cliente. 
+
+●  Desarrollé y supervisé la implementación de centros de costos, centros de ganancias, y análisis 
+
+de rentabilidad, optimizando la asignación de recursos en cada proyecto. 
+
+●  Establecí una nueva asociación dentro de SAP para la empresa SB00, coordinando estrechamente con el 
+
+● 
+
+equipo técnico para cumplir con las especificaciones y necesidades del usuario final. 
+Implementé y dirigí la capacitación sobre la aplicación Mobile Xpense (MXP), facilitando la legalización 
+de gastos de viaje y avances a través de dispositivos móviles, mejorando así la eficiencia operativa. 
+
+Coordinadora Mesa de Ayuda – Servientrega (Bogotá, Colombia) - Contrato indefinido 
+
+Consultora SAP FI N1 – Coordinadora de Help Desk – (Soporte), marzo 2017 – noviembre 2017. 
+
+Funciones: 
+
+●  Dirigí con éxito las actividades clave en colaboración con el cliente Servientrega, enfocándome en la 
+
+creación y gestión de cuentas contables y bancarias, garantizando la coherencia y eficiencia operativa. 
+
+●  Desarrollé y ejecuté programas de capacitación para los usuarios nuevos del módulo FI, 
+
+fortaleciendo sus competencias y asegurando un uso efectivo del sistema SAP. 
+
+●  Administré el acceso de usuarios, asigné roles, perfiles y transacciones Tx, y negocié cambios de 
+
+● 
+
+posición y retiros de empleados, proporcionando soporte continuo a través de manuales, diagnósticos 
+y notas OSS. 
+Implementé y optimicé una mesa de ayuda dedicada, mejorando la recopilación de información 
+sobre requisitos de proceso y la gestión de soluciones, lo cual facilitó la toma de decisiones y el 
+control eficiente de procesos. 
+
+●  Colaboré en la gestión de indicadores y en la estandarización de procesos, generando informes de 
+gestión, monitoreo y control que permitieron la evaluación del desempeño y los resultados, y la 
+actualización de la información de cumplimiento de los CEN, mejorando la resolución de casos activos 
+en el sistema de gestión. 
+
+SOFTTEK C.A. 
+Consultora SAP FI Trainee N1 | noviembre 2016 – marzo 2017 | Bogotá, Colombia 
+
+•  Proporcioné soluciones SAP en módulos FICO, PP y MM, adaptando configuraciones a necesidades 
+
+específicas. 
+
+•  Optimicé flujos de trabajo SAP, mejorando la integración con sistemas externos y la eficiencia 
+
+• 
+
+operativa. 
+Implementé ajustes fiscales en SAP FI (IVA 16% a 19%), asegurando cumplimiento normativo y 
+precisión financiera. 
+
+•  Brindé soporte a Ocensa (Ecopetrol), destacando en módulos BI, TR y CO para mejorar la 
+
+satisfacción del cliente. 
+
+ 
+ 
+PROCAPS S.A. 
+Analista de Compras | Departamento de Logística y Abastecimiento | junio 2016 – noviembre 2016 | 
+Bogotá, Colombia 
+
+C1C CONSULTORÍA, C.A. 
+
+Consultora SAP FI Jr. | noviembre 2015 – marzo 2016 | Caracas, Venezuela 
+
+•  Creé y gestioné bancos en SAP FI, habilitando operaciones en múltiples monedas para satisfacer 
+
+necesidades globales. 
+
+•  Validé y ajusté perfiles de usuario SAP, asegurando accesos seguros y eficientes al sistema. 
+•  Diseñé y ejecuté la configuración de cuentas bancarias y desarrollé manuales para usuarios finales, 
+
+mejorando la usabilidad del sistema. 
+
+LABORATORIO VIVAX PHARMACEUTICALS 
+Caracas, Venezuela 
+Analista de Facturación, marzo 2010 – octubre 2015 
+
+•  Progresé a través de varios roles clave, comenzando como Recepcionista, avanzando a Auxiliar 
+
+Contable y Analista de Tesorería, culminando como Analista de Facturación. 
+
+•  Ejecuté con precisión todas las funciones contables y de facturación, asegurando la exactitud de las 
+
+transacciones financieras y el cumplimiento de los procesos de tesorería. 
+
+•  Contribuí a la optimización de los procedimientos de facturación y cobros, lo que resultó en una 
+
+mejora significativa en la eficiencia del departamento financiero. 
+
+SIDETUR 
+Caracas, Venezuela 
+Comprador, Departamento de Logística y Almacén, agosto 2006 – noviembre 2009 
+
+•  Administré de manera eficiente las adquisiciones y el abastecimiento de materiales, colaborando 
+
+• 
+
+estrechamente con proveedores para asegurar la continuidad operativa. 
+Implementé estrategias de negociación y gestión de inventario que optimizaron los flujos de 
+logística y redujeron costos. 
+
+•  Contribuí al desarrollo y la mejora de los procesos de logística y almacenamiento, alineándolos con 
+
+los objetivos empresariales de eficiencia y productividad. 
+
+ 
+ 
+ 
+

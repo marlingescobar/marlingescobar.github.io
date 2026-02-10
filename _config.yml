@@ -1,0 +1,66 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
+
+# Site settings
+title: "Marling Escobar - SAP FICO Consultant"
+description: "Expert SAP FICO Consultant specializing in S/4HANA implementation and financial systems optimization"
+url: "https://marlingescobar.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: "Marling Escobar"
+  email: "marlingescobar8@gmail.com"
+  linkedin: "https://www.linkedin.com/in/marlingescobar051233"
+  phone: "+57 301-7145179"
+  location: "Bogotá, Colombia"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections
+collections:
+  experiences:
+    output: true
+    permalink: /:collection/:name/
+  services:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+navigation:
+  - title: "About"
+    url: "/#about"
+  - title: "Services"
+    url: "/#services"
+  - title: "Experience"
+    url: "/#experience"
+  - title: "Skills"
+    url: "/#skills"
+  - title: "Contact"
+    url: "/#contact"
+
+# Language settings
+languages: ["es", "en"]
+default_lang: "es"
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE
+  - README.md
+  - "*.txt"
+
+# Include files
+include:
+  - _pages

@@ -1,0 +1,183 @@
+MARLING FRINEE ESCOBAR ORTEGA 
+
+Bogotá - 110141, Colombia 
+Mobile: +57 301-7145179 
+LinkedIn: https://www.linkedin.com/in/marlingescobar051233 
+Email: marlingescobar8@gmail.com 
+
+Professional Summary 
+SAP FICO Consultant with solid experience in configuring and optimizing business processes, an 
+expert in implementing SAP S/4HANA solutions. Focused on continuous improvement, ensuring 
+that enterprise systems support the strategic goals of organizations. 
+
+Among my key skills are project management, financial analysis, and end-user training, achieving 
+tangible improvements in operational efficiency and the optimization of key processes. 
+
+Qualifications and Professional Activities 
+- Advanced course in MS Office (Excel, Word, PowerPoint). 
+- SAP ERP Certification V.6.5 (C_TFIN52_65) – Financial Accounting with SAP ERP 6.0 EHP5, SAP 
+Germany. 
+- Diploma in Project Management PMI, CAFAM University Foundation, Bogotá, Colombia. 
+- SAP S/4HANA FICO Certification Course – Exam scheduled for 09-26-2025, SAP Germany. 
+
+Certifications 
+- SAP ERP Certification V.6.5 (C_TFIN52_65) – Financial Accounting with SAP ERP 6.0 EHP5. 
+- SAP S/4HANA FICO Certification – Exam scheduled for 09-26-2025. 
+
+Academic Education 
+- Bachelor’s Degree in Public Accounting, Alejandro de Humboldt University, Caracas, Venezuela 
+(2015). 
+- Technical Degree in Cost Accounting, Caracas University College, Venezuela (2000). 
+
+Languages 
+- Spanish: Native 
+- English: Intermediate Level (B2) – Capable of conducting technical meetings and documenting in 
+English. 
+
+ 
+Professional Experience 
+
+Aguas Andinas Client - Chile (Axity) - BCM Project - Indefinite Contract 
+SAP FICO Consultant | December 2024 – Present (Remote) 
+
+Responsibilities: 
+- Information gathering and preparation of technical and functional specifications. 
+- Coordination of understanding sessions with key users to define requirements. 
+- Support to ABAP consultant in code development and integration specifications. 
+- Conducted unit and integration testing and trained key users. 
+
+Red Megacentro Client - Chile (Axity) - Purchase Monitor - Indefinite Contract 
+SAP FICO Consultant | December 2024 – Present (Remote) 
+
+Responsibilities: 
+- Advanced configuration of the purchase monitor in SAP, integrating accounting and purchasing 
+processes. 
+- Validation and reconciliation of invoices with accounting records in SAP. 
+- Resolution of critical issues and optimization of payment flows in the system. 
+
+Sigma Client - Mexico (Softtek International) - Help Desk 
+SAP FICO Consultant | April 2024 – December 2024 (Remote) 
+
+Responsibilities: 
+- Configured and optimized financial processes in SAP S/4HANA, improving system efficiency by 
+15%. 
+- Documented technical and functional configurations to facilitate knowledge transfer to 
+stakeholders. 
+- Coordinated the integration of SAP FICO with external platforms, ensuring consistency in financial 
+data. 
+- Implemented improvements that reduced redundancies and optimized client operations. 
+
+Freelance - CLARO Client (Peru) - Cashflow Project (Professional Services Contract) 
+SAP FICO Functional Consultant | January 2024 – April 2024 (Remote) 
+
+Responsibilities: 
+- Analyzed and defined business needs and functional requirements, ensuring alignment with client 
+objectives. 
+- Configured and developed solutions in SAP S/4HANA, integrating with external platforms to 
+optimize operations. 
+- Documented detailed use cases, improving process understanding and application by technical 
+teams. 
+- Increased end-user operational efficiency by 30% through customized SAP module (FICO, PP, MM) 
+training programs. 
+
+- Led the customization and implementation of SAP financial solutions, optimizing key processes 
+like automatic payments and bank account management in collaboration with development teams. 
+
+Freelance – Clients Dulmatesa and Globalvia (Madrid, Spain) - Help Desk 
+SAP FICO Functional Consultant | October 2022 – December 2023 (Remote) 
+
+Responsibilities: 
+- Led financial data migration to S/4HANA using SAP Migration Cockpit, achieving a precise and 
+effective transition. 
+- Configured FI submodules (AP, AR, AA, GL, TX) and conducted unit and integration tests to ensure 
+system integrity. 
+- Resolved FICO incidents using Agile methodology, improving critical financial processes. 
+- Documented and developed test scripts, aligning processes with business strategic objectives. 
+
+Everis – ENEL Client (Bogotá, Colombia) - Indefinite Contract – Roll-out 
+SAP FICO Project Coordinator | Nordeste (NORGAS) | March 2020 – September 2022 
+
+Responsibilities: 
+- Improved business processes in SAP S/4HANA using the Activate methodology, optimizing 
+operational efficiency. 
+- Defined and documented key processes in collaboration with finance teams, ensuring alignment 
+with system requirements. 
+- Coordinated SAP Train the Trainer training sessions, improving end-user competence. 
+- Managed projects under Agile methodology, ensuring deadline and quality standards compliance. 
+- Led the implementation of SAP S/4HANA functionalities, optimizing financial modules 
+(Accounting, Taxes, Fixed Assets, Accounts Receivable and Payable). 
+- Implemented improvements that eliminated redundancies and increased financial process 
+efficiency. 
+- Participated in financial audits, ensuring compliance with standards and regulations. 
+
+Freelance - Intergrupo PWC Client (Bogotá, Colombia) - (Professional Services 
+Contract) 
+SAP FI Consultant | February 2019 – April 2019 (Freelance) 
+
+Responsibilities: 
+- Provided SAP FI module support for clients such as PWC and Fundación Carulla, resolving critical 
+issues and optimizing financial processes. 
+- Configured and adjusted balance sheet structures, ensuring accuracy and consistency in financial 
+statements. 
+- Managed reference keys in KB documents and collaborated with ABAP consultants on table 
+adjustments and custom programs, improving SAP functionality. 
+
+Freelance – ABInBev Brewery Client (Bogotá, Colombia) – Travel Expense Legalization 
+Project 
+SAP FICO Consultant (Freelance) Junior Project Leader, March 2018 - November 2018 
+
+Responsibilities: 
+- Coordinated and interpreted assigned tasks, transforming them into customized solutions for the 
+client in the SAP FI area, including change management and regression testing. 
+- Executed key change management activities, ensuring alignment with project objectives and client 
+satisfaction. 
+- Developed and supervised the implementation of cost centers, profit centers, and profitability 
+analysis, optimizing resource allocation in each project. 
+- Established a new SAP association for the SB00 company, coordinating closely with the technical 
+team to meet end-user specifications. 
+- Implemented and led training on the Mobile Xpense (MXP) application, streamlining travel 
+expense legalization and advances via mobile devices, improving operational efficiency. 
+
+Help Desk Coordinator – Servientrega Client (Bogotá, Colombia) - Indefinite Contract 
+SAP FI N1 Consultant – Help Desk Coordinator (Support), March 2017 – November 2017 
+
+Responsibilities: 
+- Successfully led key activities in collaboration with Servientrega client, focusing on the creation 
+and management of accounting and bank accounts, ensuring consistency and operational efficiency. 
+- Developed and executed training programs for new FI module users, enhancing their 
+competencies and ensuring effective SAP system use. 
+- Managed user access, assigned roles, profiles, and transactions, negotiated position changes and 
+employee withdrawals, providing ongoing support through manuals, diagnostics, and OSS notes. 
+- Implemented and optimized a dedicated help desk, improving information collection on process 
+requirements and solution management, which facilitated decision-making and efficient process 
+control. 
+- Collaborated in managing KPIs and process standardization, generating management reports, 
+monitoring, and control, enabling performance evaluation and compliance information updates, 
+improving active case resolution in the management system. 
+
+SOFTTEK C.A. 
+SAP FI Trainee N1 Consultant | November 2016 – March 2017 | Bogotá, Colombia 
+
+Responsibilities: 
+- Provided SAP solutions in FICO, PP, and MM modules, adapting configurations to specific needs. 
+- Optimized SAP workflows, improving integration with external systems and operational 
+efficiency. 
+- Implemented fiscal adjustments in SAP FI (VAT 16% to 19%), ensuring regulatory compliance and 
+financial accuracy. 
+- Provided support to Ocensa (Ecopetrol), excelling in BI, TR, and CO modules to improve client 
+satisfaction. 
+
+PROCAPS S.A. 
+Purchasing Analyst | Logistics and Supply Department | June 2016 – November 2016 | Bogotá, 
+Colombia 
+
+C1C CONSULTORÍA, C.A. 
+SAP FI Jr. Consultant | November 2015 – March 2016 | Caracas, Venezuela 
+
+LABORATORIO VIVAX PHARMACEUTICALS 
+Billing Analyst, March 2010 – October 2015 
+
+SIDETUR 
+Purchasing Agent, Logistics and Warehouse Department, August 2006 – November 2009 
+
+

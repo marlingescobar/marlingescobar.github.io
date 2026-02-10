@@ -1,0 +1,16 @@
+footer:
+  about:
+    es: "Acerca de"
+    en: "About"
+  description:
+    es: "Consultora SAP FICO especializada en implementación S/4HANA y optimización financiera."
+    en: "SAP FICO Consultant specialized in S/4HANA implementation and financial optimization."
+  contact:
+    es: "Contacto"
+    en: "Contact"
+  follow:
+    es: "Sígueme"
+    en: "Follow"
+  rights:
+    es: "Todos los derechos reservados."
+    en: "All rights reserved."

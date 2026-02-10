@@ -1,0 +1,36 @@
+<!-- Footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>{{ site.data.translations.footer.about[page.lang] }}</h3>
+        <p>{{ site.data.translations.footer.description[page.lang] }}</p>
+      </div>
+      
+      <div class="footer-section">
+        <h3>{{ site.data.translations.footer.contact[page.lang] }}</h3>
+        <ul class="contact-info">
+          <li><i class="fas fa-envelope"></i> {{ site.author.email }}</li>
+          <li><i class="fas fa-phone"></i> {{ site.author.phone }}</li>
+          <li><i class="fas fa-map-marker-alt"></i> {{ site.author.location }}</li>
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h3>{{ site.data.translations.footer.follow[page.lang] }}</h3>
+        <div class="social-links">
+          <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="mailto:{{ site.author.email }}">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. {{ site.data.translations.footer.rights[page.lang] }}</p>
+    </div>
+  </div>
+</footer>
